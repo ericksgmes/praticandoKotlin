@@ -6,5 +6,4 @@ fun main() {
     var booleano: Boolean = true //or false
     var string: String = "Hello World"
     var caracteres: Char = 'U'
-
 }
