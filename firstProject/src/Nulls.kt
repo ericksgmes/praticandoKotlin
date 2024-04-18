@@ -4,5 +4,5 @@ fun main() {
 
     var brand: String? = null
     brand = "pet-ADS"
-    println(brand?.uppercase())
+    println(brand.uppercase())
 }
